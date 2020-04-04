@@ -4,6 +4,10 @@ Bengalis are the third largest ethnic group in the world, their mother tone Beng
 
 In this project, we are trying to develop a robust neural network model to perform handwritten Bangla character recognition(www.kaggle.com/c/bengaliai-cv19).
 
+Team name: Neural NotWork
+
+Team member: Hanxiao Chen, Yi Wang, Weihao Zhou
+
 ## Links of our blog posts on Medium
 
 First Post: bit.ly/2VLrT3x
