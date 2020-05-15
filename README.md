@@ -1,3 +1,5 @@
+Author: Hanxiao Chen, Weihao Zhou, Yi Wang
+
 ## Introduction
 
 Bengalis are the third largest ethnic group in the world, their mother tone Bengali, 5th most spoken language in the world, has over 200 million speakers.
